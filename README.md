@@ -69,7 +69,7 @@ DB_PASS=your_password
 
 ## Sample CSV
 
-Download a test file here: [users.csv]  (./users.csv)
+Download a test file  [users.csv] : (./data/users.csv)
 
 ---
 
@@ -122,13 +122,24 @@ After processing, it will print the output in the following format:
 >60: 30.00%
 ```
 
+
+
 ![App Screenshot](./images/demo1.png)
+
+
 
 ![App Screenshot](./images/demo2.png)
 
+
+
 ![App Screenshot](./images/demo3.png)
 
+
+
 ![App Screenshot](./images/demo4.png)
+
+
+
 
 ![App Screenshot](./images/demo5.png)
 
