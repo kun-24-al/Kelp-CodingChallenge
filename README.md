@@ -113,6 +113,13 @@ After processing, it will print:
 >60: 30.00%
 ```
 
+![App Screenshot](./images/demo1.png)
+![App Screenshot](./images/demo2.png)
+![App Screenshot](./images/demo3.png)
+![App Screenshot](./images/demo4.png)
+![App Screenshot](./images/demo5.png)
+
+
 ---
 
 ## 📌 Assumptions
