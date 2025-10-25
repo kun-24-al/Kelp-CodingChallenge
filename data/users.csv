@@ -1,0 +1,51 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender,hobbies.sport,hobbies.music
+Anita,Sharma,66,671 Sample Street,Area 75,Hyderabad,West Bengal,female,badminton,piano
+Suresh,Nair,62,570 Sample Street,Area 59,Chennai,Karnataka,female,football,tabla
+Priya,Mehra,52,889 Sample Street,Area 26,Kolkata,Maharashtra,male,hockey,tabla
+John,Iyer,57,768 Sample Street,Area 33,Hyderabad,West Bengal,male,badminton,piano
+Meena,Kapoor,60,264 Sample Street,Area 23,Ahmedabad,Gujarat,other,hockey,guitar
+Anita,Jain,66,493 Sample Street,Area 90,Chennai,West Bengal,male,cricket,violin
+Rita,Mehra,55,995 Sample Street,Area 39,Bangalore,Gujarat,male,football,flute
+Rohit,Doe,47,115 Sample Street,Area 44,Hyderabad,Telangana,female,basketball,piano
+Rohit,Verma,17,489 Sample Street,Area 75,Pune,West Bengal,other,tennis,guitar
+Rita,Iyer,23,130 Sample Street,Area 80,Chennai,Karnataka,female,cricket,piano
+John,Sharma,71,276 Sample Street,Area 55,Pune,West Bengal,other,hockey,piano
+John,Nair,75,856 Sample Street,Area 95,Hyderabad,Tamil Nadu,other,tennis,violin
+Amit,Kumar,43,604 Sample Street,Area 84,Bangalore,Gujarat,female,football,piano
+Amit,Iyer,29,940 Sample Street,Area 40,Hyderabad,Gujarat,other,tennis,tabla
+Meena,Verma,51,178 Sample Street,Area 97,Pune,Telangana,other,tennis,guitar
+Priya,Verma,55,337 Sample Street,Area 22,Bangalore,Telangana,female,tennis,tabla
+Amit,Jain,40,496 Sample Street,Area 28,Pune,Maharashtra,female,tennis,drums
+Asha,Verma,63,6 Sample Street,Area 14,Ahmedabad,Gujarat,other,basketball,piano
+Suresh,Kumar,37,898 Sample Street,Area 37,Mumbai,West Bengal,female,tennis,guitar
+Asha,Doe,71,789 Sample Street,Area 84,Kolkata,Telangana,female,badminton,flute
+Suresh,Mehra,53,297 Sample Street,Area 77,Hyderabad,Tamil Nadu,female,football,tabla
+Anita,Mehra,47,78 Sample Street,Area 2,Ahmedabad,Maharashtra,male,football,violin
+Anita,Doe,51,157 Sample Street,Area 49,Ahmedabad,Tamil Nadu,female,badminton,guitar
+Anita,Mehra,28,489 Sample Street,Area 73,Chennai,West Bengal,other,basketball,violin
+Rohit,Sharma,70,678 Sample Street,Area 7,Bangalore,Karnataka,other,badminton,piano
+Rohit,Jain,74,32 Sample Street,Area 40,Hyderabad,West Bengal,female,basketball,violin
+Priya,Verma,40,736 Sample Street,Area 30,Bangalore,Karnataka,male,tennis,flute
+Anita,Jain,32,887 Sample Street,Area 35,Mumbai,Tamil Nadu,female,badminton,piano
+Asha,Iyer,42,411 Sample Street,Area 57,Kolkata,Gujarat,other,badminton,violin
+Rohit,Nair,35,277 Sample Street,Area 81,Chennai,Karnataka,female,cricket,drums
+Rita,Prasad,26,96 Sample Street,Area 31,Kolkata,Maharashtra,male,hockey,flute
+John,Kapoor,32,9 Sample Street,Area 75,Chennai,Gujarat,female,badminton,drums
+Rohit,Verma,61,647 Sample Street,Area 45,Bangalore,Gujarat,other,tennis,violin
+Anita,Doe,72,946 Sample Street,Area 68,Bangalore,Maharashtra,male,tennis,tabla
+Asha,Verma,47,181 Sample Street,Area 7,Kolkata,Maharashtra,other,basketball,violin
+John,Mehra,66,31 Sample Street,Area 54,Mumbai,Gujarat,other,hockey,flute
+Amit,Doe,41,235 Sample Street,Area 90,Delhi,West Bengal,male,football,guitar
+Rita,Mehra,41,670 Sample Street,Area 4,Ahmedabad,Tamil Nadu,male,tennis,violin
+John,Kapoor,62,120 Sample Street,Area 21,Delhi,West Bengal,female,basketball,violin
+John,Doe,53,430 Sample Street,Area 57,Chennai,West Bengal,male,cricket,drums
+Rita,Prasad,50,636 Sample Street,Area 69,Delhi,Maharashtra,male,basketball,violin
+Rohit,Prasad,58,202 Sample Street,Area 65,Bangalore,Gujarat,female,football,drums
+Suresh,Prasad,66,177 Sample Street,Area 66,Bangalore,Gujarat,other,football,tabla
+Rohit,Sharma,37,26 Sample Street,Area 43,Mumbai,Delhi,male,football,violin
+Rohit,Kumar,26,869 Sample Street,Area 64,Mumbai,Delhi,female,hockey,piano
+Rita,Prasad,64,444 Sample Street,Area 15,Hyderabad,Gujarat,female,badminton,flute
+Suresh,Prasad,24,356 Sample Street,Area 29,Pune,Maharashtra,male,football,guitar
+Rohit,Jain,26,972 Sample Street,Area 68,Delhi,Gujarat,male,tennis,flute
+Rohit,Verma,60,357 Sample Street,Area 88,Pune,West Bengal,other,football,flute
+Meena,Mehra,46,887 Sample Street,Area 89,Chennai,Karnataka,female,cricket,flute
